@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Software Development**
 
-- 📝 I regularly write articles on [https://medium.com/@yaredasmelash](https://medium.com/@yaredasmelash)
+- 📝 I regularly write articles on [https://medium.com/@yaredasmelash00](https://medium.com/@yaredasmelash00)
 
 - 💬 Ask me about **python, react, and java**
 
