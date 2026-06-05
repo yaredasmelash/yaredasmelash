@@ -35,3 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaredasmelash&show_icons=true&locale=en" alt="yaredasmelash" /></p>
 
 <a href="https://streak-stats.demolab.com"><img src="https://streak-stats.demolab.com?user=yaredasmelash&theme=dark&hide_border=true" alt="Yaredasmelash" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=%40yaredasmelash&theme=dark)](https://git.io/streak-stats)
