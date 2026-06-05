@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaredasmelash" alt="yaredasmelash" /></a> </p>
 
-- 🔭 I’m currently working on **Software Development**
+- 🔭 I'm currently working on **Software Development**
 
 - 📝 I regularly write articles on [https://medium.com/@yaredasmelash00](https://medium.com/@yaredasmelash00)
 
@@ -19,8 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yared-asmelash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yared-asmelash" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/23374255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14929045" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yared-asmelash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin-in.svg" alt="yared-asmelash" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23374255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stackoverflow.svg" alt="14930255" height="30" width="40" /></a>
 <a href="https://medium.com/@yaredasmelash00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yaredasmelash" height="30" width="40" /></a>
 </p>
 <a href="https://app.daily.dev/yaredasmelash"><img src="https://api.daily.dev/devcards/v2/9NEjbRgmhJSXQX01vAGPA.png?type=wide&r=9yk" width="652" alt="Yared Asmelash's Dev Card"/></a>
