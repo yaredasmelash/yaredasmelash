@@ -36,3 +36,4 @@
 
 <a href="https://streak-stats.demolab.com"><img src="https://streak-stats.demolab.com?user=yaredasmelash&theme=dark&hide_border=true" alt="Yaredasmelash" /></a>
 [![GitHub Streak](https://streak-stats.demolab.com?user=%40yaredasmelash&theme=dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=%40yaredasmelash&theme=dark&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
